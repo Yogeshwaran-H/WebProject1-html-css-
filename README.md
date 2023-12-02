@@ -4,13 +4,14 @@ This project is a simple interior architecture website created using HTML and CS
 
 Table of Contents
 
-Demo
-Features
-Installation
-Usage
-Contributing
+Demo,
+Features,
+Installation,
+Usage,
+Contributing,
 License
-Demo
+
+Demo:
 You can view a live demo of the project here.
 
 Features:
